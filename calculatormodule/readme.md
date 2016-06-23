@@ -1,3 +1,11 @@
+#My Calculator
+
+##install
+```
+npm install calculatormodule
+```
+##Usage:
+```
 var makeCalculator = require('./calculatormodule');
 
 var calc = makeCalculator();
@@ -8,3 +16,4 @@ calc.subtract(2);
 console.log(calc.getNumber()); // outputs 2
 calc.times(3);
 console.log(calc.getNumber()); // outputs 6
+```

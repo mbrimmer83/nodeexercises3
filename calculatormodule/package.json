@@ -1,0 +1,11 @@
+{
+  "name": "calculatormodule",
+  "version": "1.0.1",
+  "description": "calculator",
+  "main": "calculatormodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Brimmer",
+  "license": "ISC"
+}
